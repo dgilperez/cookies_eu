@@ -16,9 +16,14 @@ Or install it yourself as:
 
     $ gem install cookies_eu
 
+## Dependencies
+
+* jQuery
+* jQuery mobile
+
 ## Usage
 
-In application.js add
+In application.js, after your ``require jquery``, add
 
     //= require cookies_eu
 
